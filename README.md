@@ -1,12 +1,21 @@
-### Hi there 👋
+### Hi there👋, I'm John Leenard Zarate
+
+- 🌱 I’m currently learning Javasript, ReactJs, Firebase, Web3 & Blockchain Tech. 
+
+I'm in:
+https://www.behance.net/lolleenard
+https://www.linkedin.com/in/onii-channel-9a125b190/
+
+
+
+
+
 
 <!--
 **leenrd/leenrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
