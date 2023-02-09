@@ -2,13 +2,6 @@
 
 - 🌱 I’m currently learning Javasript, ReactJs, Firebase, Web3 & Blockchain Tech. 
 
-I'm in:
-https://www.behance.net/lolleenard
-https://www.linkedin.com/in/onii-channel-9a125b190/
-
-
-
-
 
 
 <!--
