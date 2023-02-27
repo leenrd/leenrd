@@ -1,6 +1,6 @@
 ### Hi there👋, I'm John Leenard Zarate
 
-- 🌱 I’m currently learning Javasript, ReactJs, Firebase, Web3 & Blockchain Tech. 
+- 🌱 currently learning Javasript, ReactJs & Web3. 
 
 
 
