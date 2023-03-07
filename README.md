@@ -1,6 +1,6 @@
 ### Hi there👋, I'm John Leenard Zarate
 
-- 🌱 currently learning Javasript, ReactJs & Web3. 
+- 🌱 currently learning React & Web3. 
 
 
 
