@@ -1,4 +1,4 @@
-### Hi there👋, I'm John Leenard Zarate
+###👋, I'm John Leenard Zarate
 
 - 🌱 currently learning React. 
 
