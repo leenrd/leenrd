@@ -3,7 +3,7 @@
 <b>Find Me @:</b>
 <ul>
   <li>LinkedIn: www.linkedin.com/in/johnleenardzarate</li>
-  <li>Portfolio: [johnleenardzarate.vercel.app ](https://johnleenardzarate.vercel.app/)</li>
+  <li>Portfolio: https://johnleenardzarate.vercel.app</li>
   <li>Google Developer Profile : https://bit.ly/3QJpmU3</li>
 </ul>
 
