@@ -1,6 +1,6 @@
-<h2 style="text-align: center;"><b>I'm John Leenard Zarate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm John Leenard Zarate </b></h2>
 
-<b><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> Find Me @:</b>
+<b>Find Me @:</b>
 <ul>
   <li>LinkedIn: www.linkedin.com/in/johnleenardzarate</li>
   <li>Portfolio: https://johnleenardzarate.vercel.app</li>
