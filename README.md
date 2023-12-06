@@ -2,9 +2,9 @@
 
 <b>Find Me @:</b>
 <ul>
-  <li>LinkedIn: www.linkedin.com/in/johnleenardzarate</li>
-  <li>Portfolio: https://johnleenardzarate.vercel.app</li>
-  <li>Google Developer Profile : https://bit.ly/3QJpmU3</li>
+  <li>Linked-In: <a href="https://www.linkedin.com/in/johnleenardzarate/">Leenard Zarate</a></li>
+  <li>Portfolio: <a href="https://johnleenardzarate.vercel.app">My Portfolio</a></li>
+  <li>Google Developer Profile : <a href="https://bit.ly/3QJpmU3">Leenard</a></li>
 </ul>
 
 <b align="left"><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>Languages and Tools:</b>
