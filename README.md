@@ -4,6 +4,7 @@
 <ul>
   <li>Linked-In: <a href="https://www.linkedin.com/in/johnleenardzarate/">Leenard Zarate</a></li>
   <li>Portfolio: <a href="https://johnleenardzarate.vercel.app">My Portfolio</a></li>
+  <li>Vercel: <a href="https://v0.dev/leenrd">V0 dev</a></li>
   <li>Google Developer Profile : <a href="https://bit.ly/3QJpmU3">Leenard</a></li>
 </ul>
 
