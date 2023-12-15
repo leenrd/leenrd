@@ -9,7 +9,7 @@
   <li>Google Developer Profile : <a href="https://bit.ly/3QJpmU3">Leenard</a></li>
 </ul>
 
-🦄 **Certifications:** `Certiport Software Dev`, `Tesda CSS`, `Meta JS`
+🦄 **Certifications:** `Certiport Software Dev`, `Tesda Computer Sys. Servicing`, `Meta JS`
 
 🔱 **Development:** <br /> 
 <br />
