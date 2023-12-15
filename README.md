@@ -14,6 +14,6 @@
 🔱 **Development:** <br /> 
 <br />
 [![](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=git,bash,powershell,linux)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=vercel,git,bash,powershell,linux)](https://skillicons.dev)<br />
 
