@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Leenard+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Leenard+%F0%9F%A4%B4)](https://git.io/typing-svg)
 
 💬 **Me**: software "[developer](https://johnleenardzarate.vercel.app)" and a product designer focusing on development, ui/ux and system infrastructure.
 
