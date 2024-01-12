@@ -9,6 +9,6 @@
 
 🔱 **Development:** <br /> 
 <br />
-[![](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,tailwind,nodejs,express,mongodb,git,bash,linux)](https://skillicons.dev)<br />
+![](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,tailwind,nodejs,express,mongodb,git,bash,linux)<br />
 
 
