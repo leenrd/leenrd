@@ -2,7 +2,7 @@
 
 💬 **Me**: software developer and a product designer focusing on development, ui/ux and system infrastructure.
 
-😶‍🌫️ **Socials:** <a href="https://www.linkedin.com/in/johnleenardzarate/">Linked In</a> | <a href="https://johnleenardzarate.vercel.app">My Portfolio</a> | <a href="https://bit.ly/3QJpmU3">Google Dev Profile</a></li>
+😶‍🌫️ **Socials:** <a href="https://www.linkedin.com/in/johnleenardzarate/">Linked In</a> | <a href="https://johnleenardzarate.vercel.app">My Portfolio</a> | <a href="https://bit.ly/3QJpmU3">Google Dev Profile</a></li> | <a href="https://leetcode.com/lolleenard0/">Leetcode</a></li>
 
 
 🦄 **Certifications:** `Certiport Software Dev`, `Tesda Computer Sys. Servicing`, `Meta JS`
