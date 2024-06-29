@@ -1,5 +1,6 @@
+![na](https://github.com/leenrd/leenrd/assets/103997539/b10d506c-2002-4026-ac70-e6171dbc336d)
 
-![gh](https://github.com/leenrd/leenrd/assets/103997539/3871abfd-a141-480b-bcad-437e8a4e0d48)
+
 
 
 Portfolio   //   Linkedin //   Other
