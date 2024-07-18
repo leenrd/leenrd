@@ -2,4 +2,4 @@
 
 
 
-_[— portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [`other`](https://huggingface.co/leenrd)
+_[— portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [huggingface](https://huggingface.co/leenrd)
