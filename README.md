@@ -2,4 +2,4 @@
 
 
 
-_[→ portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [huggingface](https://huggingface.co/leenrd) | [hire me?](https://drive.google.com/file/d/1n85zsb_XrLykBaK8GXWnB8fSZ0PN4szh/view?usp=sharing)
+_[→ portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [huggingface](https://huggingface.co/leenrd)
