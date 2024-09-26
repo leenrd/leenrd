@@ -2,4 +2,4 @@
 
 
 
-_[→ portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [huggingface](https://huggingface.co/leenrd) | [...need a website?](https://heyleenard.me)
+_[→ portfolio](https://leenard.tech)_ | [leetcode](https://leetcode.com/lolleenard0/) | [starter](https://react-scaffold-rust.vercel.app/) | [...need a website?](https://heyleenard.me)
