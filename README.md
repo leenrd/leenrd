@@ -2,4 +2,4 @@
 
 
 
-_[→ portfolio](https://leenard.tech)_ | [starter](https://react-scaffold-rust.vercel.app/) | [watch](https://pixanime.vercel.app/) | [freelance •](https://heyleenard.me)
+_[→ portfolio](https://leenard.tech)_ | [starter](https://react-scaffold-rust.vercel.app/) | [freelance •](https://heyleenard.me)
